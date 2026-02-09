@@ -145,5 +145,5 @@ It’s a strong addition to a GitHub portfolio, especially for junior engineerin
 - Drag‑and‑drop task ordering  
 - Deploy backend (Render) + frontend (Netlify/Vercel)  
 - Add user authentication  
-- Add categories or due dates  
-# fullstack-task-tracker-js
+- Add categories or due dates
+  
