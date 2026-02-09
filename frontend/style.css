@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+}
+
+.input-area {
+  display: flex;
+  gap: 10px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 0;
+}
